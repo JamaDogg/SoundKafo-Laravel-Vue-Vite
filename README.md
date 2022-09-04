@@ -1,7 +1,7 @@
 # SoundKafo-Laravel---Vue---Vite
 Example project 
 
-1) use xampp to localhost
+1)use xampp to localhost
 
 2)php artisan migrate
 
